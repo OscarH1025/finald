@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.com/ishandeveloper/Portfolio.svg)](http://hits.dwyl.com/ishandeveloper/Portfolio)
+
 ## Portfolio [Progressive Web App]
 #### A clean, beautiful and fully responsive progressive web app based portfolio template for Developers! 
 ##### Optimized For Github Pages
